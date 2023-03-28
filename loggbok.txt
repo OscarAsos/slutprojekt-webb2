@@ -1,1 +1,7 @@
-2023-03-24 Idag kom jag på idén av webbsidan, vilket som kommer att bli en helt ny webbsida för företaget "Sofia Salongen", då de i nuvarande läge inte använder sig av någon form av hemsida och bestämde mig för att tillverka en. Har även skrivit lite på projekt-mallen och kommit på idéer angående hur jag ska tillverka hemsidans utseénde i form av olika 
+2023-03-24
+ Idag kom jag på idén av webbsidan, vilket som kommer att bli en helt ny webbsida för företaget "Sofia Salongen", då de i nuvarande läge inte använder sig av någon form av hemsida och bestämde mig för att tillverka en. Har även skrivit lite på projekt-mallen och kommit på idéer angående hur jag ska tillverka hemsidans utseénde i form av olika
+
+
+2023-03-28
+
+Idag fortsatte jag med att skriva projektplanen och blev klar med både metoderna och verktygen jag kommer att ta vara och använda under projektets gång. Utöver detta, så skrev jag klart en väldetaljerad tidsplan angående hur projektet kommer att speglas och konstrueras.
