@@ -18,3 +18,6 @@ Idag så fortsatte jag att arbeta med skissarna
 
 23-04-20
 Idag så blev jag klart med alla skissar för hemsidorna, så ska arbeta vidare med projektmallen och se till att bli klar med den imorgon på lektionen
+
+23-04-27
+Idag så började jag och lyckades till och med bli klar med min navbar och nu så börjar den stora hindret med att skapa hemsidan, vilket som är articeln. Men frågade Ralph lite angående rekommendationer och tips om hur jag ska göra det och planen är att kombinera Grid-layout med flex-box. Förhoppningsvis så går det lika bra som det gjorde med Nav-baren idag, men vi får se tills vidare.
