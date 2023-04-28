@@ -54,3 +54,42 @@ a:hover{
     cursor:pointer;
     display:none;
 }
+
+
+.container{
+    display:grid;
+     width:80%;
+     background-color:#FDF4F5;
+     gap:1rem;
+    grid-template-areas: "A A B B"
+                         "C C C C";
+    margin:auto;
+  }
+  
+  article{
+    width:100%;
+    border: 5px solid;
+    padding: 50px;
+    margin:auto;
+    grid-area:A;
+    width:100%;
+  }
+  
+  #box2{
+    
+    border: 5px solid;
+    padding: 50px;
+    grid-area:B;
+    width:100%;
+    margin:auto;
+  }
+  
+  #box3{
+    
+    border: 5px solid;
+    padding: 50px;
+    grid-area:C;
+    width:100%;
+    margin:auto;
+  }
+  
