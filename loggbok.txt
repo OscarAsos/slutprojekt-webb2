@@ -21,3 +21,6 @@ Idag så blev jag klart med alla skissar för hemsidorna, så ska arbeta vidare 
 
 23-04-27
 Idag så började jag och lyckades till och med bli klar med min navbar och nu så börjar den stora hindret med att skapa hemsidan, vilket som är articeln. Men frågade Ralph lite angående rekommendationer och tips om hur jag ska göra det och planen är att kombinera Grid-layout med flex-box. Förhoppningsvis så går det lika bra som det gjorde med Nav-baren idag, men vi får se tills vidare.
+
+23-05-02
+Blev klar med upplägget av articlen men den har fortfarande inte något innuti sig men skall först bli klar med footern innan jag avslutar arbetet med artikeln. Därför började jag att arbeta med footern idag.
