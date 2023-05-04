@@ -24,3 +24,6 @@ Idag så började jag och lyckades till och med bli klar med min navbar och nu s
 
 23-05-02
 Blev klar med upplägget av articlen men den har fortfarande inte något innuti sig men skall först bli klar med footern innan jag avslutar arbetet med artikeln. Därför började jag att arbeta med footern idag.
+
+23-05-04
+Blev klar med footern och fick den till och med att bli responsiv. Lärde mig att använda mig av fonterna Awesome fonts samt lyckades jag att göra drowern för nav baren. Dock så när hemsidan blir mindre, så tar ul-taggen för mycket utryme vilket som resulterar med att nav-baren hoppar nedåt, vilket måste fixas tills nästa lektion.
