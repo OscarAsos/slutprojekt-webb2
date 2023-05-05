@@ -27,3 +27,6 @@ Blev klar med upplägget av articlen men den har fortfarande inte något innuti 
 
 23-05-04
 Blev klar med footern och fick den till och med att bli responsiv. Lärde mig att använda mig av fonterna Awesome fonts samt lyckades jag att göra drowern för nav baren. Dock så när hemsidan blir mindre, så tar ul-taggen för mycket utryme vilket som resulterar med att nav-baren hoppar nedåt, vilket måste fixas tills nästa lektion.
+
+23-05-05
+Tyvärr så blev jag inte riktigt klar med nav-baren. Lyckades fixa problemet med nav-baren. Dock så behöver jag använda javascript med en animation för navbaren, vilket som jag märkte av nu att jag inte hade gjort, vilket som har resulterats med att jag måste göra om den på början, ungefär. Men det går bra men lite synd att en lektion inte användes för att arbeta vidare med hemsidan och snarare för att fixa ett problem med hemsidan själv. Men åja, man får väl inte alltid så man önskar och det är lite mitt fel att jag inte började med javascripted från början.
