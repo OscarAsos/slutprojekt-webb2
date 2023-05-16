@@ -33,3 +33,6 @@ Tyvärr så blev jag inte riktigt klar med nav-baren. Lyckades fixa problemet me
 
 23-05-12
 Idag så blev jag äntligen klar med nav baren, inkluderande en fungerande javascript och nu så är det bara fokus på media queary's som behövs på den första sidan och sedan förhoppningsvis så skall projektet gå enkelt och fungerande men självklart så kommer mycket eget arbetestid behövas att göra hemma.
+
+23-05-12
+Idag så försökte jag göra några buttons till min hemsida, men gick inte så mycket bra som jag trodde, kom dock långt men inte helt färdig. Dock så måste jag nu börja arbeta på egen hand själv tills inlämningnen, så dags snarare att fokusera på hemsidan och sedan fixa till dessa små problem, så att man åtminstone går framåt.

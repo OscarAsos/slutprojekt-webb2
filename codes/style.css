@@ -45,6 +45,14 @@ label.logo {
   background:#C59D5F ;
 }
 
+.button-container{
+padding:7px 13px;
+text-align:center;
+}
+article a{
+  background-color:white;
+}
+
 .menu a:hover {
   transition:.5s;
     background:#FFD393;
@@ -201,3 +209,25 @@ label.logo {
   }
 
 
+  @media (min-width:768px){
+
+    .menu a {
+      color: white;
+      font-size:17px;
+      padding:7px 13px;
+      background:#C59D5F ;
+    }
+  }
+
+
+  @media (min-width: 576px) {
+    .mobile-menu, .hamburger {
+      display: none;
+    }
+  
+    .menu {
+      display: flex;
+    }
+  }
+  
+  
