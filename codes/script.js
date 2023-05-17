@@ -9,3 +9,25 @@ hamburger.addEventListener('click', () => {
 	
 	mobile_menu.classList.toggle('is-open');
 })
+
+const heartDOM = document.querySelector('.js-heart');
+
+let liked = false;
+
+heartDOM.onclick = (event) => { 
+	liked = !liked; 
+	
+	const target = event.currentTarget;
+	
+	if (liked) {
+		target.classList.remove('far');
+		target.classList.add('fas', 'pulse');
+	} else {
+		target.classList.remove('fas');
+		target.classList.add('far');
+	}
+}
+
+heartDOM.addEventListener('animationend', (event) => {
+	event.currentTarget.classList.remove('pulse');
+})
