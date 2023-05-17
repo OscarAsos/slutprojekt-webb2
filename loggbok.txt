@@ -36,3 +36,7 @@ Idag så blev jag äntligen klar med nav baren, inkluderande en fungerande javas
 
 23-05-12
 Idag så försökte jag göra några buttons till min hemsida, men gick inte så mycket bra som jag trodde, kom dock långt men inte helt färdig. Dock så måste jag nu börja arbeta på egen hand själv tills inlämningnen, så dags snarare att fokusera på hemsidan och sedan fixa till dessa små problem, så att man åtminstone går framåt.
+
+23-05-17
+ok... så har arbetat med hemsidan både idag och igår och det har gått delvis bra, har varit några delar som tog flera timmar att lösa och vissa delar som inte lyckades lika väl, trots hjälpen som jag fick tag på via nätet av stackoverflow. Men har i princip blivit klar med den första sidan.
+Åtminstone trodde det, tills att jag har märkt av nu att från ingen stans så har min article nu blivit icke respionsiv. Osäker på vad som är orsaken till detta, men har blivit väl för upprörd och arbetat tillräckligt mycvket på arbetet idag. Drygt 5timmar +, så måste gå vidare med livet asså... Iallafall, det verkar inte som det går bra i tillfället men förhoppningsvis så löser framtida Oscar detta.
