@@ -127,12 +127,10 @@ article p{
   
   article{
     border: 5px solid;
-    margin:auto;
     grid-area:A;
     height:100%;
     background-color:#FDF4F5;
     position:relative;
-    width:auto;
     overflow:hidden;
   }
   
@@ -140,7 +138,6 @@ article p{
     background-color:#FDF4F5;
     border: 5px solid;
     grid-area:B;
-    margin:auto;
     height:100%;
     overflow:hidden;
   }
@@ -154,13 +151,15 @@ article p{
     height:100%;
     width:auto;
   }
-
+p{
+  justify-content: center;;
+}
  
  
   
   footer{
     height:100%;
-    width:100vw;
+    width:100%;
     padding-top:40px;
     color: #fff;
    background-color:#5f87c5;
@@ -228,13 +227,13 @@ article p{
   outline: none;
 }
 
-.btn-13 {
+.btn {
   background-color: #89d8d3;
 background-image: linear-gradient( #5fc59d 0%, #5fc59d 100%);
   border: none;
   z-index: 1;
 }
-.btn-13:after {
+.btn:after {
   position: absolute;
   content: "";
   width: 100%;
@@ -252,14 +251,14 @@ background-image: linear-gradient(315deg, #4dccc6 0%, #96e4df 74%);
    4px 4px 5px 0px #0001;
   transition: all 0.3s ease;
 }
-.btn-13:hover {
+.btn:hover {
   color: #fff;
 }
-.btn-13:hover:after {
+.btn:hover:after {
   top: 0;
   height: 100%;
 }
-.btn-13:active {
+.btn:active {
   top: 2px;
 }
 

@@ -47,3 +47,7 @@ ok... så har arbetat med hemsidan både idag och igår och det har gått delvis
 
 23-05-17 update:
 Nu fungerar allting i article och containern, dock så är det ett litet mellanrum i nav-baren, men åtminstone kan jag gå framåt nu och arbeta med hemsidan vidare. Glömde också notera att jag gjorde en responsiv tabell som är responsiv och till och med anpassar sig till telefonlayout UTAN media query, asså fatta. Måste säga visst, så har detta varit ett jobbit arbete, speciellt när man har ett matte prov mindre än en vecka. Men ändå, så är detta så jävla lärorikt och jag vet inte, börjar typ gilla mer webbutveckling och programmering. Så jävla skönt när man faktiskt förstår vad problmet och lösningen :) . Aja, så trött har arbetat i princip hela dagen med detta. vi ses andrew nu när du ser detta :D
+
+23-05-18
+När jag kom hem från jobbet, så ägnade jag lite tid åt webbutveckling och lyckades lösa problemet med mellanrummet i nav-baren. Tydligen var det något fel med footern, och 100vw som sabbade det. Men när jag bytte det till width:100%, så löste det sig. Hursomhelst:
+Idag så blev jag klar med första sidan. Påbörjade andra sidan, om oss, som kommer snart att döpas sig till Kontakta_Oss, där jag har telefonnummer, öppen tider samt en graf som ska visa hur många personer som befinner sig i butiken under dagen via chart.js
