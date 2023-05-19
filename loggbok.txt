@@ -51,3 +51,8 @@ Nu fungerar allting i article och containern, dock så är det ett litet mellanr
 23-05-18
 När jag kom hem från jobbet, så ägnade jag lite tid åt webbutveckling och lyckades lösa problemet med mellanrummet i nav-baren. Tydligen var det något fel med footern, och 100vw som sabbade det. Men när jag bytte det till width:100%, så löste det sig. Hursomhelst:
 Idag så blev jag klar med första sidan. Påbörjade andra sidan, om oss, som kommer snart att döpas sig till Kontakta_Oss, där jag har telefonnummer, öppen tider samt en graf som ska visa hur många personer som befinner sig i butiken under dagen via chart.js
+
+23-05-19
+Nu har jag gjort klart 3 sidorna, Index, Behandlingar och Kontakta oss sidan. Gjorde en prislista för barn, dam och vuxna samt använde mig av flera CSS/javascript bibleotek, då jag använde mig av Tailwind CSS, vilket som gjorde att hemsidan såg bättre ut efter några justeringar. Dock så fungerade inte <h> taggarna, och texterna blev inte i bold, samma med font-weight:bold i css, så antog och använde mig av <b> taggen för en lösning på problemet.
+Det sista som jag kommer att göra är att fixa till bilderna så de använder sig av picture elements, då det hjälper dem att lättare vara mer responsiv till skärmen. Det är därför jag har några bilder i olika storlekar i "Bilder" mappen, men ska greja med detta imorgon.
+Funderar även på ifall jag skall göra en fjärde och sista hemsida, Om Oss, men på tanke över att jag inte har någon idé som kan vara relevant på den hemsidan och på tanke över att den ska lämnas in inom drygt 48 timmar, så struntar jag troligtvis med det. Aja, lycka till mig imorgon 

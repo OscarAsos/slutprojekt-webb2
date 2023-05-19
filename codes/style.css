@@ -135,7 +135,7 @@ article p{
     margin:0;
   }
   
-  #box2{
+  aside{
     background-color:#FDF4F5;
     border: 5px solid;
     grid-area:B;
@@ -144,7 +144,7 @@ article p{
     margin:0;
   }
 
-  #box2 p{
+  aside p{
     bottom:0;
   }
   
