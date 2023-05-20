@@ -44,16 +44,16 @@ var config	= {
 	data:[2,4,5,3,2],
 	backgroundColor:[
 		"rgba(75, 192, 192, 0.2)",//green
-		"rgba(225, 159, 64 0.2)", //orange
+		"rgba(225, 159, 64, 0.2)", //orange
 		"rgba(255, 99, 132, 0.2)",//red
-		"rgba(225, 159, 64 0.2)", //orange
+		"rgba(225, 159, 64, 0.2)", //orange
 		"rgba(75, 192, 192, 0.2)",//green
 	],
 	borderColor:[
 		"rgba(75, 192, 192, 1)",//green
-		"rgba(225, 159, 64 1)", //orange
+		"rgba(225, 159, 64, 1)", //orange
 		"rgba(255, 99, 132, 1)",//red
-		"rgba(225, 159, 64 1)", //orange
+		"rgba(225, 159, 64, 1)", //orange
 		"rgba(75, 192, 192, 1)",//green
 	],
 	borderWidth:1,

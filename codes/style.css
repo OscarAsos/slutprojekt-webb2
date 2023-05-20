@@ -164,11 +164,12 @@ p{
  
   
   footer{
-    height:100%;
+    height:auto;
     width:100%;
     padding-top:40px;
     color: #fff;
    background-color:#5f87c5;
+   
 
   }
   .footer-content{
