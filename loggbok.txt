@@ -60,3 +60,8 @@ Funderar även på ifall jag skall göra en fjärde och sista hemsida, Om Oss, m
 23-05-20
 Gjorde inte så mycket idag jämförelse med andra dagarna, men försökte "ticka" av alla resisterande bedömningar inom kunskapskraven och arbetade med pictureelements. Dock så gick det inte så bra, men ska försöka ge ett sista försök imorgon och i värsta fall, så måste jag acceptera det och gå vidare med projektet.
 Något annat jag gjorde idag var att fixa till lite på namnen av filerna, så att de är lite bättre samt skall jag lägga till ett alternativt meddelande också. ( glöm inte detta innan du lämnar in)
+
+23-05-21
+Gick inte så bra med picture elements, trots att det fungerade delvis, men gick inte som jag ville så gav upp och gick tillbaka med min nuvarande alternativ vilket som var att bilderna blir responsiva. Gav alternativ meddelanden till bilderna och fixade till namnen även så att mellan rum är med understreck ("_") och inte bindestreck ("-") och andra saker som fixade till filerna samt tog bort då självklart bilderna som jag gjorde till picture element. Alltså alla bilder med olika pixel-storlekar. Men skönt att säga att hemsidan är nu äntligen färdig :D
+
+Också, jag bestämde mig för att namnge frisörsalongen istället för "Sofia Salongen",vilket som jag nämnde i projektplanen till Zuets Salong, på grund av två orsaker. Första orsaken är att det blir lite mer personligt då jag använder ett namn som representerar mig online och då vill jag ägna tid för att se till att jag representera mig själv väl. Också, så kontaktade jag salongen och de ville inte ha en hemsida så... det var den största anledningen. hehe
