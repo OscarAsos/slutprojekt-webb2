@@ -1,0 +1,67 @@
+2023-03-24
+ Idag kom jag på idén av webbsidan, vilket som kommer att bli en helt ny webbsida för företaget "Sofia Salongen", då de i nuvarande läge inte använder sig av någon form av hemsida och bestämde mig för att tillverka en. Har även skrivit lite på projekt-mallen och kommit på idéer angående hur jag ska tillverka hemsidans utseénde i form av olika
+
+
+2023-03-28
+
+Idag fortsatte jag med att skriva projektplanen och blev klar med både metoderna och verktygen jag kommer att ta vara och använda under projektets gång. Utöver detta, så skrev jag klart en väldetaljerad tidsplan angående hur projektet kommer att speglas och konstrueras.
+
+
+
+2023-03-31
+Idag så insåg jag att jag glömde pusha arbetet som gjordes på förra lektionen men skall fortfarande vara tillgängligt att få tag på så fort jag använder samma dator som jag gjorde i gårdagens lektion men detta kan resultera att jag kommer att lämna in projektplanen blir lite sent inlämnat pga att jag har redan skrivit klart den men har inte tillgång till filen.
+Jag arbetade också idag med att forsätta med den grafiska manualen och fick fram Om Oss hemsidan för stora skärmstorlekar såsom datorer samt gjorde en skiss för layouten av en telefon och skissade även fram drower menyn för telefon skissen.
+
+
+2023-04-14
+Idag så fortsatte jag att arbeta med skissarna
+
+23-04-20
+Idag så blev jag klart med alla skissar för hemsidorna, så ska arbeta vidare med projektmallen och se till att bli klar med den imorgon på lektionen
+
+23-04-27
+Idag så började jag och lyckades till och med bli klar med min navbar och nu så börjar den stora hindret med att skapa hemsidan, vilket som är articeln. Men frågade Ralph lite angående rekommendationer och tips om hur jag ska göra det och planen är att kombinera Grid-layout med flex-box. Förhoppningsvis så går det lika bra som det gjorde med Nav-baren idag, men vi får se tills vidare.
+
+23-05-02
+Blev klar med upplägget av articlen men den har fortfarande inte något innuti sig men skall först bli klar med footern innan jag avslutar arbetet med artikeln. Därför började jag att arbeta med footern idag.
+
+23-05-04
+Blev klar med footern och fick den till och med att bli responsiv. Lärde mig att använda mig av fonterna Awesome fonts samt lyckades jag att göra drowern för nav baren. Dock så när hemsidan blir mindre, så tar ul-taggen för mycket utryme vilket som resulterar med att nav-baren hoppar nedåt, vilket måste fixas tills nästa lektion.
+
+23-05-05
+Tyvärr så blev jag inte riktigt klar med nav-baren. Lyckades fixa problemet med nav-baren. Dock så behöver jag använda javascript med en animation för navbaren, vilket som jag märkte av nu att jag inte hade gjort, vilket som har resulterats med att jag måste göra om den på början, ungefär. Men det går bra men lite synd att en lektion inte användes för att arbeta vidare med hemsidan och snarare för att fixa ett problem med hemsidan själv. Men åja, man får väl inte alltid så man önskar och det är lite mitt fel att jag inte började med javascripted från början.
+
+23-05-12
+Idag så blev jag äntligen klar med nav baren, inkluderande en fungerande javascript och nu så är det bara fokus på media queary's som behövs på den första sidan och sedan förhoppningsvis så skall projektet gå enkelt och fungerande men självklart så kommer mycket eget arbetestid behövas att göra hemma.
+
+23-05-12
+Idag så försökte jag göra några buttons till min hemsida, men gick inte så mycket bra som jag trodde, kom dock långt men inte helt färdig. Dock så måste jag nu börja arbeta på egen hand själv tills inlämningnen, så dags snarare att fokusera på hemsidan och sedan fixa till dessa små problem, så att man åtminstone går framåt.
+
+
+23-05-16
+tog lite tid, men gjorde animerade knappar som kommer bli i princip en navigationsknapp inom index-sidan, så att man inte bara tar vara av sig via nav baren, då tja, det ser finare ut :)
+
+23-05-17
+ok... så har arbetat med hemsidan både idag och igår och det har gått delvis bra, har varit några delar som tog flera timmar att lösa och vissa delar som inte lyckades lika väl, trots hjälpen som jag fick tag på via nätet av stackoverflow. Men har i princip blivit klar med den första sidan.
+Åtminstone trodde det, tills att jag har märkt av nu att från ingen stans så har min article nu blivit icke respionsiv. Osäker på vad som är orsaken till detta, men har blivit väl för upprörd och arbetat tillräckligt mycvket på arbetet idag. Drygt 5timmar +, så måste gå vidare med livet asså... Iallafall, det verkar inte som det går bra i tillfället men förhoppningsvis så löser framtida Oscar detta.
+
+23-05-17 update:
+Nu fungerar allting i article och containern, dock så är det ett litet mellanrum i nav-baren, men åtminstone kan jag gå framåt nu och arbeta med hemsidan vidare. Glömde också notera att jag gjorde en responsiv tabell som är responsiv och till och med anpassar sig till telefonlayout UTAN media query, asså fatta. Måste säga visst, så har detta varit ett jobbit arbete, speciellt när man har ett matte prov mindre än en vecka. Men ändå, så är detta så jävla lärorikt och jag vet inte, börjar typ gilla mer webbutveckling och programmering. Så jävla skönt när man faktiskt förstår vad problmet och lösningen :) . Aja, så trött har arbetat i princip hela dagen med detta. vi ses andrew nu när du ser detta :D
+
+23-05-18
+När jag kom hem från jobbet, så ägnade jag lite tid åt webbutveckling och lyckades lösa problemet med mellanrummet i nav-baren. Tydligen var det något fel med footern, och 100vw som sabbade det. Men när jag bytte det till width:100%, så löste det sig. Hursomhelst:
+Idag så blev jag klar med första sidan. Påbörjade andra sidan, om oss, som kommer snart att döpas sig till Kontakta_Oss, där jag har telefonnummer, öppen tider samt en graf som ska visa hur många personer som befinner sig i butiken under dagen via chart.js
+
+23-05-19
+Nu har jag gjort klart 3 sidorna, Index, Behandlingar och Kontakta oss sidan. Gjorde en prislista för barn, dam och vuxna samt använde mig av flera CSS/javascript bibleotek, då jag använde mig av Tailwind CSS, vilket som gjorde att hemsidan såg bättre ut efter några justeringar. Dock så fungerade inte <h> taggarna, och texterna blev inte i bold, samma med font-weight:bold i css, så antog och använde mig av <b> taggen för en lösning på problemet.
+Det sista som jag kommer att göra är att fixa till bilderna så de använder sig av picture elements, då det hjälper dem att lättare vara mer responsiv till skärmen. Det är därför jag har några bilder i olika storlekar i "Bilder" mappen, men ska greja med detta imorgon.
+Funderar även på ifall jag skall göra en fjärde och sista hemsida, Om Oss, men på tanke över att jag inte har någon idé som kan vara relevant på den hemsidan och på tanke över att den ska lämnas in inom drygt 48 timmar, så struntar jag troligtvis med det. Aja, lycka till mig imorgon 
+
+23-05-20
+Gjorde inte så mycket idag jämförelse med andra dagarna, men försökte "ticka" av alla resisterande bedömningar inom kunskapskraven och arbetade med pictureelements. Dock så gick det inte så bra, men ska försöka ge ett sista försök imorgon och i värsta fall, så måste jag acceptera det och gå vidare med projektet.
+Något annat jag gjorde idag var att fixa till lite på namnen av filerna, så att de är lite bättre samt skall jag lägga till ett alternativt meddelande också. ( glöm inte detta innan du lämnar in)
+
+23-05-21
+Gick inte så bra med picture elements, trots att det fungerade delvis, men gick inte som jag ville så gav upp och gick tillbaka med min nuvarande alternativ vilket som var att bilderna blir responsiva. Gav alternativ meddelanden till bilderna och fixade till namnen även så att mellan rum är med understreck ("_") och inte bindestreck ("-") och andra saker som fixade till filerna samt tog bort då självklart bilderna som jag gjorde till picture element. Alltså alla bilder med olika pixel-storlekar. Men skönt att säga att hemsidan är nu äntligen färdig :D
+
+Också, jag bestämde mig för att namnge frisörsalongen istället för "Sofia Salongen",vilket som jag nämnde i projektplanen till Zuets Salong, på grund av två orsaker. Första orsaken är att det blir lite mer personligt då jag använder ett namn som representerar mig online och då vill jag ägna tid för att se till att jag representera mig själv väl. Också, så kontaktade jag salongen och de ville inte ha en hemsida så... det var den största anledningen. hehe
